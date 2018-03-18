@@ -1,5 +1,5 @@
 ---
-title: First Blog
+title: blog 1
 layout: post
 author: udit.tripathy
 permalink: /Udit_Blog-1/

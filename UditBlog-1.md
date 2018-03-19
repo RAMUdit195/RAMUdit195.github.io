@@ -1,5 +1,5 @@
 ---
-title: Creating a title page
+title: Making a title page for my game
 layout: post
 author: udit.tripathy
 permalink: /Udit_Blog-1/

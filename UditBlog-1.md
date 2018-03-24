@@ -47,7 +47,7 @@ published: true
   </tr>
   <tr>
     <td>Independence</td>
-    <td>I did most of it on my own</td>
+    <td>I did most of it on my own </td>
   </tr>
   <tr>
     <td>Reflecting</td>
